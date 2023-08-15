@@ -1,0 +1,9 @@
+﻿Create new branch for GIT
+Git flow: master(Nhánh mặc định) --> develop(Nhánh chuyên về phát triển) --> feature/solution_folder --> Create pull request 
+-> develop --> bugfix/fix_error_starrt --> create pull request to develop
+
+- Solution structure:
+	+> N layer (Data, Business, Prenstation) - Data Driven design (Hướng theo dữ liệu)
+	+> DDD (Domain driven design) (Hướng theo nghiệp vụ như entity)
+
+	- Web application --> request pipeline
